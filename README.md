@@ -1,7 +1,7 @@
 # Rpg Por Turno
 Projeto de RPG por Turnos utilizando python 
- Etapas de Desenvolvimento
- Criação Da Lógica #  
+# Etapas de Desenvolvimento
+ Criação Da Lógica   
   Nessa etapa iremos construir a somente o esqueleto do nosso projeto, deixaremos ele interativo via terminal.
     Conhecimentos Necessários : 
       - Estrutura de Dados
